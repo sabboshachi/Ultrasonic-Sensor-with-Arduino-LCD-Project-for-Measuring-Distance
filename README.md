@@ -13,4 +13,4 @@
 ### Software:
   1. Arduino IDE
 ### Circuit Diagram:
-[![Circuit Diagram](Project.png "Shiprock, New Mexico by Beau Rogers")](https://github.com/sabboshachi/Ultrasonic-Sensor-with-Arduino-LCD-Project-for-Measuring-Distance/blob/master/Project.png)
+[![Circuit Diagram](Project.png)](https://github.com/sabboshachi/Ultrasonic-Sensor-with-Arduino-LCD-Project-for-Measuring-Distance/blob/master/Project.png)
